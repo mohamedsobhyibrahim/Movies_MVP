@@ -1,7 +1,7 @@
 # Movies_MVP
 Very Simple App to know the consept of MVP
 
-# MVC Pattern
+# MVP Pattern
 
 Model: The model will continue to contain the data in simple classes, so nothing really changes here.
 
